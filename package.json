@@ -1,0 +1,23 @@
+{
+  "name": "exphorg.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "javascript-obfuscator": "^0.27.2"
+  },
+  "scripts": {
+    "production": "javascript-obfuscator deoindex.js --output index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exphorg/exphorg.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exphorg/exphorg.github.io/issues"
+  },
+  "homepage": "https://github.com/exphorg/exphorg.github.io#readme"
+}
