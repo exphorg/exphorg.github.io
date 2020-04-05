@@ -5,10 +5,12 @@
   "main": "Gruntfile.js",
   "dependencies": {},
   "devDependencies": {
-    "javascript-obfuscator": "^0.27.2"
+    "javascript-obfuscator": "^0.27.2",
+    "onchange": "^6.1.0"
   },
   "scripts": {
-    "prod": "javascript-obfuscator deoindex.js --output index.js"
+    "prod": "javascript-obfuscator deoindex.js --output index.js",
+    "watch": "onchange -i deoindex.js -- npm run prod"
   },
   "repository": {
     "type": "git",
