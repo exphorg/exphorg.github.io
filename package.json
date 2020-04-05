@@ -8,7 +8,7 @@
     "javascript-obfuscator": "^0.27.2"
   },
   "scripts": {
-    "production": "javascript-obfuscator deoindex.js --output index.js"
+    "prod": "javascript-obfuscator deoindex.js --output index.js"
   },
   "repository": {
     "type": "git",
