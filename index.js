@@ -1,5 +1,5 @@
 // Слабоумие и отвага
-var hostname_oil="https://exphorg.github.com"
+var hostname_oil="https://exphorg.github.io"
 
 var ab_limit_hp=4;
 soclanList=new Array();
