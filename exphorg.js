@@ -1557,7 +1557,7 @@ var btn_cast_6="UseMagCast(1,1,mbPereman);";
 <!----------------------------------------------------->
 <!-------    BATTLEFIELD BUTTONS WARRIOR       -------->
 <!----------------------------------------------------->
-if(ME.id==203168448) { // Божий одуванчик
+if(ME.id==202515898) { // НАПАДАТЕЛЬ
 var btn_name_0="Разрушить";
 var btn_name_1="Напугать";
 var btn_name_2="Клич";
@@ -1810,9 +1810,9 @@ user_home="<a href=\"#\" onclick=\"top.frames['d_act'].location='homeenter_hid_"
 +"top.frames['d_act'].location='hstoreroom_sumka_1_hid_"+MyHome+".html';"
 +"ItemOperationCity(3);\" style=\"font-size:8pt;margin-left:2px;\">[Сундук]</a>";
 }
-if(d.id==203168448) { // Божий одуванчик
-MyClan=146;
-mbHP=5018190;
+if(d.id==202515898) { // НАПАДАТЕЛЬ
+MyClan=147;
+mbHP=1054873;
 }
 if(d.id==200411306) { // Primere
 MyHome=7;
@@ -2272,15 +2272,15 @@ abilityAbort=1596757;
 abilityCloneDispel=2274948;
 abilityPet=0;
 }
-if(ME.id==203168448) { // Божий одуванчик
-mbClon=10286766;
-mbHP=5018190;
-mbDestroy=10286774;
+if(ME.id==202515898) { // НАПАДАТЕЛЬ
+mbClon=1364946;
+mbHP=1058326;
+mbDestroy=1292629;
 mbFireBall=10286768; //сд
-mbArmor=10286770;
-mbFreeze=10286769;
-mbPereman=5116931;
-mbCurse=10286767; //бк
+mbArmor=4245405;
+mbFreeze=2303061;
+mbPereman=2238102;
+mbCurse=4245406; //бк
 abilityFireDust=0;
 abilityKill=0;
 abilityAbort=0;
