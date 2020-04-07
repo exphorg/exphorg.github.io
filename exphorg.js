@@ -2273,7 +2273,7 @@ abilityCloneDispel=2274948;
 abilityPet=0;
 }
 if(ME.id==202515898) { // НАПАДАТЕЛЬ
-mbClon=1364946;
+mbClon=23750506;
 mbHP=1058326;
 mbDestroy=1292629;
 mbFireBall=10286768; //сд
