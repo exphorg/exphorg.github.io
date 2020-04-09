@@ -1519,7 +1519,7 @@ var obj_hover_2="onmouseover=\"this.style.backgroundColor='gold';\" onmouseout=\
 var obj_hover_3="onmouseover=\"this.style.backgroundColor='skyblue';\" onmouseout=\"this.style.backgroundColor='#E8EEEC';\"";
 
 var addscript = function() {
-if(ME.id==100214920 || ME.id==201964813 || ME.id==200411306 || ME.id==201135707) { // bb sv59190 Primere hetzer
+if(ME.id==100214920 || ME.id==201964813 || ME.id==200411306 || ME.id==200669710) { // bb sv59190 Primere GIVIK
 var btn_name_0="МаГудар";
 var btn_name_1="Заморозь";
 var btn_name_2="Прокля";
@@ -1824,10 +1824,10 @@ user_home="<a href=\"#\" onclick=\"top.frames['d_act'].location='homeenter_hid_"
 +"top.frames['d_act'].location='hstoreroom_sumka_1_hid_"+MyHome+".html';"
 +"ItemOperationCity(3);\" style=\"font-size:8pt;margin-left:2px;\">[Сундук]</a>";
 }
-if(d.id==201135707) { // hetzer
-MyHome=997;
-MyClan=146;
-mbHP=464505;
+if(d.id==200669710) { // GIVIK
+MyHome=431;
+MyClan=14;
+mbHP=195298;
 user_home="<a href=\"#\" onclick=\"top.frames['d_act'].location='homeenter_hid_"+MyHome+".html';\" "
 +"style=\"font-size:8pt;margin-left:45%;\">[Дом]</a>"
 +"<a href=\"#\" onclick=\""
@@ -2302,16 +2302,16 @@ abilityAbort=650717;
 abilityCloneDispel=1304284;
 abilityPet=0;
 }
-if(ME.id==201135707) { // hetzer
-mbClon=681194;
-mbHP=464505;
-mbStone=464506;
-mbFireBall=657540;
-mbArmor=681193;
-mbFreeze=660931;
-mbPereman=3558028;
-mbCurse=3558029;
-abilityFireDust=10707146;
+if(ME.id==200669710) { // GIVIK
+mbClon=10046218;
+mbHP=195298;
+mbStone=10046214;
+mbFireBall=10046215;
+mbArmor=10046217;
+mbFreeze=10046216;
+mbPereman=239436;
+mbCurse=10046219;
+abilityFireDust=0;
 abilityKill=0;
 abilityAbort=0;
 abilityCloneDispel=0;
